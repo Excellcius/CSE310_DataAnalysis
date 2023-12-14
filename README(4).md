@@ -1,7 +1,7 @@
 # Overview
 I've been diving into healthcare data analysis to broaden my skills as a software engineer. The dataset I'm exploring encapsulates patient demographics, disease patterns, and healthcare resource utilization. My aim is to construct a robust software tool using Python and Pandas to extract insights and address predetermined questions from this dataset, contributing to my proficiency in data manipulation and analysis.
 
-[Software Demo Video]([https://youtu.be/DjSYdD8v_8g])
+https://youtu.be/DjSYdD8v_8g
 
 # Data Analysis Results
 
