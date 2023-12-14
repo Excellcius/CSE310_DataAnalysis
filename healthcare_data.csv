@@ -1,0 +1,11 @@
+Patient_ID,Age,Gender,Region,Disease,Visits,Medications,LabTests
+1,35,Male,North,Flu,3,5,10
+2,28,Female,West,Allergy,2,3,7
+3,42,Female,East,Diabetes,5,8,15
+4,55,Male,South,Hypertension,4,6,12
+5,30,Female,East,Flu,2,4,9
+6,48,Male,West,Hypertension,6,9,18
+7,37,Male,North,Allergy,3,5,11
+8,45,Female,South,Diabetes,4,7,14
+9,50,Male,West,Flu,2,4,8
+10,33,Female,East,Allergy,2,3,6
